@@ -26,3 +26,5 @@ How to run (local)
 Notes
 - This is an ambitious platform; the repository includes a scalable skeleton with a premium, non-generic UI.
 - The current patch focuses on the 3D command center scaffolding and data pipelines with mock data to demonstrate capabilities.
+
+Deployment: Frontend on Vercel; Backend on Fly.io or AWS; PostgreSQL and Redis managed services. This document will be updated as the deployment plan firms up.
